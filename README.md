@@ -7,6 +7,3 @@
 [data](jkdcjkhcdjh)
     
 | day  | time | do |
-| a | 3H | x |
-| b | 3H | y  |
-| c | 4H | z   |
