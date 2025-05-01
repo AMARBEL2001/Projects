@@ -6,7 +6,7 @@
    >- *ok*
 [data](jkdcjkhcdjh)
     
-| day  | time | do 
-| a | 3H | x 
-| b | 3H | y 
-| c | 4H | z 
+|day  |time |do 
+|a |3H |x 
+|b |3H |y
+|c |4H |z 
